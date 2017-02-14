@@ -1,2 +1,2 @@
-Script to use
+Script to for self use.
 ----------------------
